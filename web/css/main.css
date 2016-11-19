@@ -1,0 +1,14 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.jumbotron {
+    margin-bottom: 0px;
+    background-image: url(https://mlpforums.com/uploads/monthly_04_2015/post-30335-0-38192200-1428001888.png);
+    background-position: 0% 25%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+    min-height: 30em;
+}
